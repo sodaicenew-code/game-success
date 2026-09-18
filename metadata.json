@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix นิติเวชสืบสวนคดีฆาตกรรม",
+  "description": "เกมสืบสวนชันสูตรพลิกศพ ค้นหาวัตถุพยานในที่เกิดเหตุและวิเคราะห์สาเหตุการเสียชีวิต",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
